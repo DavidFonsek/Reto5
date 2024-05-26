@@ -37,3 +37,8 @@ Este es el cluster de Amazon EMR que se utilizó para el desarrollo del reto 5. 
 
 7. Subí 2 archivos al S3
 ![](./Images/ArchivosS3.png)
+
+8. Por último subí todo el dataset al S3
+![](./Images/SubiendoDataset.png)
+
+![](./Images/TodosLosArchivos.png)
