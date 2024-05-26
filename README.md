@@ -17,5 +17,17 @@ Este es el cluster de Amazon EMR que se utilizó para el desarrollo del reto 5. 
 ![](./Images/Cluster.png)
 
 ## Gestión de archivos en HDFS y S3
-1. Primero cree el bucket 
+1. Primero creé el bucket 
 ![](./Images/BucketCreado.png)
+
+2. Despues creé y configuré el Cluster
+![](./Images/Cluster.png)
+
+3. Foto de las aplicaciones en el Cluster
+![](./Images/AplicacionesCluster.png)
+
+4. Foto de las instancias
+![](./Images/Instancias.png)
+
+5. Foto en el Home de Jupyter
+![](./Images/JupyterHome.png)
