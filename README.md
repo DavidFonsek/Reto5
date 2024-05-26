@@ -9,7 +9,7 @@
 - Nombre: Álvaro Ospina
 - Correo: aeospinas@eafit.edu.co
 
-# Reto 5 -  HDFS y S3
+# Reto 5 - HDFS y S3
 
 ## Cluster de Amazon EMR
 Este es el cluster de Amazon EMR que se utilizó para el desarrollo del reto 5. El cluster fue creado con las indicaciones del
@@ -31,3 +31,9 @@ Este es el cluster de Amazon EMR que se utilizó para el desarrollo del reto 5. 
 
 5. Foto en el Home de Jupyter
 ![](./Images/JupyterHome.png)
+
+6. Subí 2 archivos al HDFS
+![](./Images/ArchivosHDFS.png)
+
+7. Subí 2 archivos al S3
+![](./Images/ArchivosS3.png)
