@@ -14,8 +14,8 @@
 ## Cluster de Amazon EMR
 Este es el cluster de Amazon EMR que se utilizó para el desarrollo del reto 5. El cluster fue creado con las indicaciones del
 [Lab 0](https://github.com/st0263eafit/st0263-241/blob/main/bigdata/00-lab-aws-emr/Install-AWS-EMR.pdf):
-![Cluster EMR](./images/Cluster.png)
+![](./images/Cluster.png)
 
 ## Gestión de archivos en HDFS y S3
 1. Primero cree el bucket 
-!(./images/BucketCreado.png)
+![](./images/BucketCreado.png)
